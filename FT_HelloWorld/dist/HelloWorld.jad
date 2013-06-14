@@ -1,0 +1,9 @@
+MIDlet-1: FT_HelloWorld,,com.nokia.example.HelloWorldMIDlet
+MIDlet-Jar-Size: 2476
+MIDlet-Jar-URL: HelloWorld.jar
+MIDlet-Name: HelloWorld
+MIDlet-Vendor: Nokia
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
+Nokia-MIDlet-App-Orientation: manual
